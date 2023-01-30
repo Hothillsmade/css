@@ -113,7 +113,8 @@ a:visited{
     color: darkgray;
 }
 
-.form-group input{
+.form-group input,
+.form-group textarea{
     width: 100%;
     box-sizing: border-box;
     background: transparent;
